@@ -1,5 +1,20 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/aryansrivastava28/aryansrivastava28/snake-output/snake.svg" alt="Snake animation" />
+
+
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryansrivastava28/aryansrivastava28/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryansrivastava28/aryansrivastava28/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryansrivastava28/aryansrivastava28/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansrivastava28&label=Profile%20views&color=0e75b6&style=flat" alt="aryansrivastava28" /> </p>
 
